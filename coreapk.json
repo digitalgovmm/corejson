@@ -1,0 +1,16 @@
+{
+"access_code": {
+"password": "1234",
+"new_password_url": "http://example.com/get-new-password",
+"sliders": [
+{
+"image_url": "https://facts.net/wp-content/uploads/2023/12/15-baby-monkey-facts-1702697694.jpg",
+"link_url": "http://example.com/link1"
+},
+{
+"image_url": "https://www.pbs.org/wnet/nature/files/2020/04/2-rabbits-eating-grass-at-daytime-33152-610x404.jpg",
+"link_url": "http://example.com/link2"
+}
+]
+}
+}
