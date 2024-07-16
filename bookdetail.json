@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Book Title 1",
+    "image": "https://m.media-amazon.com/images/I/61I4Ni-8BUL._AC_UF1000,1000_QL80_.jpg",
+    "details": "This is the detail of Book Title 1"
+  },
+  {
+    "title": "Book Title 2",
+    "image": "https://m.media-amazon.com/images/I/61I4Ni-8BUL._AC_UF1000,1000_QL80_.jpg",
+    "details": "This is the detail of Book Title 2"
+  }
+]
